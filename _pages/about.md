@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "Email: <a href='mailto:junbang.liang@columbia.edu'>junbang [dot] liang [at] columbia.edu</a>"
 
 profile:
   align: right
@@ -15,10 +16,10 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-I am a masters student at Columbia University, advised by [Carl Vondrick](https://www.cs.columbia.edu/~vondrick/). Previously I completed my BE(Hons) in Mechatronics Engineering at The University of Auckland, where I worked on robotics advised by [Minas Liarokapis](https://minasliarokapis.com/).
+I am a master's student at Columbia University, advised by [Carl Vondrick](https://www.cs.columbia.edu/~vondrick/). Previously I completed my BE(Hons) in Mechatronics Engineering at The University of Auckland, where I worked on robotics advised by [Minas Liarokapis](https://minasliarokapis.com/).
 
 My research focuses on developing generalized robotic agents for dexterious manipulation. I am particularly interested in leveraging large-scale pretraining of language and vision models to enhance the capabilities and adaptability of robotic systems to perform complex tasks.
 
